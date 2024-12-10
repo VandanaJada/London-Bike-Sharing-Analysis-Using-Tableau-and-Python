@@ -47,6 +47,7 @@ The dashboard visualizes:
 - A heatmap showing the relationship between temperature, wind speed, and bike usage.
 
 You can access the Tableau dashboard [here](https://public.tableau.com/views/LondonBikeRides-MovingAverageandHeatmap_17338614497420/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+[https://github.com/VandanaJada/London-Bike-Sharing-Analysis-Using-Tableau-and-Python/blob/main/Dashboard.png]
 
 ---
 
